@@ -11,4 +11,4 @@
 10-love_exponent_breath prints the result of Breath to the power of love (both environmental variables)
 11-binary_to_decimal converts a number from base 2 to base 10
 12-combination prints all possible combinations of two letters 
-13-print_float prints a number with two decimal places
+13-print_float prints a number with two decimal place.
